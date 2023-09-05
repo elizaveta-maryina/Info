@@ -1,0 +1,14 @@
+id,peer,task,date
+0,Enigma,CPP1_s21_matrix+,2022-09-01
+1,Anti-Mage,C2_SimpleBashUtils,2022-09-01
+2,Axe,C2_SimpleBashUtils,2022-09-03
+3,Crystal,C2_SimpleBashUtils,2022-09-04
+4,Chen,C2_SimpleBashUtils,2022-09-05
+5,Enigma,C3_s21_string+,2022-09-15
+6,Anti-Mage,C3_s21_string+,2022-09-15
+7,Klee,C2_SimpleBashUtils,2022-09-15
+8,Enigma,C5_s21_decimal,2022-09-25
+9,Enigma,C6_s21_matrix,2022-09-26
+10,Enigma,C7_SmartCalc_v1.0,2022-10-01
+11,Enigma,C8_3DViewer_v1.0,2022-10-10
+12,Crystal,C2_SimpleBashUtils,2022-10-20

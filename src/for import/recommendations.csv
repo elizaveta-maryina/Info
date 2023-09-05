@@ -1,0 +1,14 @@
+id,peer,recommended_peer
+1,Enigma,Anti-Mage
+2,Anti-Mage,Enigma
+3,Anti-Mage,Axe
+4,Axe,Crystal
+5,Crystal,Enigma
+6,Chen,Klee
+7,Enigma,Faceless Void
+8,Klee,Enigma
+9,Enigma,Klee
+10,Klee,Chen
+11,Axe,Anti-Mage
+12,Crystal,Axe
+13,Faceless Void,Enigma

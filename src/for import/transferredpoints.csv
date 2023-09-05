@@ -1,0 +1,15 @@
+id,checking_peer,checked_peer,points_amount
+1,Anti-Mage,Enigma,1
+2,Enigma,Anti-Mage,1
+3,Axe,Anti-Mage,1
+4,Crystal,Axe,1
+5,Enigma,Crystal,1
+6,Klee,Chen,1
+7,Faceless Void,Enigma,1
+8,Enigma,Klee,1
+9,Klee,Enigma,1
+10,Chen,Klee,1
+11,Anti-Mage,Axe,1
+12,Axe,Crystal,1
+13,Enigma,Faceless Void,1
+14,Crystal,Faceless Void,1
